@@ -46,3 +46,11 @@ The biggest fiddling starts when you try to fit everything into the Bobbycar. To
 ### NOTE ON THE SKETCH
 
 I've taught myself how to program so far and I'm pretty sure that there's a lot of room for improvement. It was just the first thing I did with Arduino and an ESP! Suggestions and improvements are very welcome!
+
+
+[
+  ![Donate with PayPal]
+  (https://www.paypal.com/us/webapps/mpp/logo-center, https://www.paypal.com/uk/webapps/mpp/logo-center)
+]
+([https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y](https://www.paypal.com/donate/?hosted_button_id=ESWQHSJ7G42AE))
+
