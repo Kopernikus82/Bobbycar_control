@@ -47,5 +47,10 @@ The biggest fiddling starts when you try to fit everything into the Bobbycar. To
 
 I've taught myself how to program so far and I'm pretty sure that there's a lot of room for improvement. It was just the first thing I did with Arduino and an ESP! Suggestions and improvements are very welcome!
 
+If you want to have it a little bit easier then building a breadboard:
+
+[![LINK TO TINDIE](https://d2ss6ovg47m0r5.cloudfront.net/images/tindie-logo@2x.png)](https://www.tindie.com/products/kopernikus/light-controll-unit/)
+
+
 
 [![Donate with PayPal](https://github.com/Kopernikus82/smart_clock_round_display/blob/main/paypal.png)](https://www.paypal.com/donate/?hosted_button_id=GL9EF8CMQNQMU)
